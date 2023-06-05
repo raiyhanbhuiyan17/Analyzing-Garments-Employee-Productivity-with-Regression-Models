@@ -1,2 +1,1 @@
-# Analyzing-Garments-Employee-Productivity-with-Regression-Models
-Regression Model, Machine Learning
+ The objective of the study is to solve this problem by predicting the actual productivity of employees. To achieve this aim,  six different regression models  are used  to predict the actual productivity of the employees. The experimental results of this study have shown that the proposed model yields a promising prediction performance with a minimal Mean Absolute Error (=0.09). Such prediction performance can indisputably help the manufacturers to set an accurate target, minimize production loss and maximize profit.
